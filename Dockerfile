@@ -14,6 +14,7 @@ RUN npm ci
 COPY src/ src/
 COPY test/ test/
 RUN npm run compile
+RUN npm run test:notification:production
 RUN npm prune --production
 
 FROM node:16.2.0-alpine3.13

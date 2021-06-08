@@ -266,19 +266,20 @@ export const NeweggCa: Store = {
         'https://www.newegg.ca/gigabyte-geforce-rtx-3080-gv-n3080aorus-m-10gd/p/N82E16814932336',
     },
     {
-      brand: 'gigabyte',
-      model: 'aorus xtreme',
-      series: '3080',
-      url:
-        'https://www.newegg.ca/gigabyte-geforce-rtx-3080-gv-n3080aorus-x-10gd/p/N82E16814932345',
-    },
-    {
       brand: 'zotac',
       itemNumber: '14-950-502',
       model: 'trinity',
       series: '3080',
       url:
         'https://www.newegg.ca/zotac-geforce-rtx-3080-zt-a30800d-10p/p/N82E16814500502',
+    },
+    {
+      brand: 'zotac',
+      itemNumber: '14-500-513',
+      model: 'amp holo',
+      series: '3080',
+      url:
+        'https://www.newegg.ca/zotac-geforce-rtx-3080-zt-a3080f-10p/p/N82E16814500513',
     },
     {
       brand: 'asus',
@@ -319,6 +320,142 @@ export const NeweggCa: Store = {
       series: '3080',
       url:
         'https://www.newegg.ca/gigabyte-geforce-rtx-3080-gv-n3080vision-oc-10gd/p/N82E16814932337',
+    },
+    {
+      brand: 'evga',
+      itemNumber: '14-487-547',
+      model: 'ftw3 ultra',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/evga-geforce-rtx-3080-ti-12g-p5-3967-kr/p/N82E16814487547',
+    },
+    {
+      brand: 'asus',
+      itemNumber: '14-126-510',
+      model: 'tuf',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/asus-geforce-rtx-3080-ti-tuf-rtx3080ti-12g-gaming/p/N82E16814126510',
+    },
+    {
+      brand: 'msi',
+      itemNumber: '14-137-650',
+      model: 'gaming x trio',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/msi-geforce-rtx-3080-ti-rtx-3080-ti-gaming-x-trio-12g/p/N82E16814137650',
+    },
+    {
+      brand: 'evga',
+      itemNumber: '14-487-548',
+      model: 'xc3 ultra',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/evga-geforce-rtx-3080-ti-12g-p5-3955-kr/p/N82E16814487548',
+    },
+    {
+      brand: 'gigabyte',
+      itemNumber: '14-932-439',
+      model: 'eagle',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/gigabyte-geforce-rtx-3080-ti-gv-n308teagle-12gd/p/N82E16814932439',
+    },
+    {
+      brand: 'zotac',
+      itemNumber: '14-500-515',
+      model: 'amp holo',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/zotac-zt-a30810f-10p/p/N82E16814500515',
+    },
+    {
+      brand: 'zotac',
+      itemNumber: '14-500-514',
+      model: 'trinity',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/zotac-zt-a30810d-10p/p/N82E16814500514',
+    },
+    {
+      brand: 'gigabyte',
+      itemNumber: '14-932-436',
+      model: 'gaming',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/gigabyte-geforce-rtx-3080-ti-gv-n308tgaming-oc-12gd/p/N82E16814932436',
+    },
+    {
+      brand: 'asus',
+      itemNumber: '14-126-508',
+      model: 'strix oc',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/asus-geforce-rtx-3080-ti-rog-strix-rtx3080ti-o12g-gaming/p/N82E16814126508',
+    },
+    {
+      brand: 'asus',
+      itemNumber: '14-126-509',
+      model: 'tuf oc',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/asus-geforce-rtx-3080-ti-tuf-rtx3080ti-o12g-gaming/p/N82E16814126509',
+    },
+    {
+      brand: 'evga',
+      itemNumber: '14-487-549',
+      model: 'ftw3',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/evga-geforce-rtx-3080-ti-12g-p5-3953-kr/p/N82E16814487549',
+    },
+    {
+      brand: 'gigabyte',
+      itemNumber: '14-932-435',
+      model: 'aorus',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/gigabyte-geforce-rtx-3080-ti-gv-n308taorus-m-12gd/p/N82E16814932435',
+    },
+    {
+      brand: 'gigabyte',
+      itemNumber: '14-932-437',
+      model: 'vision',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/gigabyte-geforce-rtx-3080-ti-gv-n308tvision-oc-12gd/p/N82E16814932437',
+    },
+    {
+      brand: 'gigabyte',
+      itemNumber: '14-932-440',
+      model: 'aorus xtreme',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/gigabyte-geforce-rtx-3080-ti-xtreme-12g/p/N82E16814932440',
+    },
+    {
+      brand: 'gigabyte',
+      itemNumber: '14-932-438',
+      model: 'eagle',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/gigabyte-geforce-rtx-3080-ti-gv-n308teagle-oc-12gd/p/N82E16814932438',
+    },
+    {
+      brand: 'msi',
+      itemNumber: '14-137-651',
+      model: 'ventus 3x oc',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/msi-geforce-rtx-3080-ti-rtx-3080-ti-ventus-3x-12g-oc/p/N82E16814137651',
+    },
+    {
+      brand: 'msi',
+      itemNumber: '14-137-656',
+      model: 'ventus 3x',
+      series: '3080ti',
+      url:
+        'https://www.newegg.ca/msi-geforce-rtx-3080-ti-rtx-3080-ti-ventus-3x-12g/p/N82E16814137656',
     },
     {
       brand: 'msi',

@@ -175,27 +175,6 @@ export const CanadaComputers: Store = {
         'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181348&language=en',
     },
     {
-      brand: 'gigabyte',
-      model: 'eagle oc',
-      series: '3080',
-      url:
-        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181354&language=en',
-    },
-    {
-      brand: 'evga',
-      model: 'xc3 ultra',
-      series: '3080',
-      url:
-        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181375&language=en',
-    },
-    {
-      brand: 'zotac',
-      model: 'trinity',
-      series: '3080',
-      url:
-        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181420&language=en',
-    },
-    {
       brand: 'zotac',
       model: 'trinity oc',
       series: '3080',
@@ -211,31 +190,10 @@ export const CanadaComputers: Store = {
     },
     {
       brand: 'gigabyte',
-      model: 'gaming oc',
-      series: '3080',
-      url:
-        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181353&language=en',
-    },
-    {
-      brand: 'msi',
-      model: 'ventus 3x',
-      series: '3080',
-      url:
-        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181347&language=en',
-    },
-    {
-      brand: 'gigabyte',
       model: 'aorus master',
       series: '3080',
       url:
         'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=182754&language=en',
-    },
-    {
-      brand: 'evga',
-      model: 'xc3 black',
-      series: '3080',
-      url:
-        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181797&language=en',
     },
     {
       brand: 'gigabyte',
@@ -259,22 +217,8 @@ export const CanadaComputers: Store = {
         'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=183510&language=en',
     },
     {
-      brand: 'gigabyte',
-      model: 'eagle oc',
-      series: '3080',
-      url:
-        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=184166&language=en',
-    },
-    {
-      brand: 'evga',
-      model: 'xc3',
-      series: '3080',
-      url:
-        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181798&language=en',
-    },
-    {
       brand: 'asus',
-      model: 'strix',
+      model: 'strix oc white',
       series: '3080',
       url:
         'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=186309&language=en',
@@ -301,25 +245,102 @@ export const CanadaComputers: Store = {
         'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=186344&language=en',
     },
     {
+      brand: 'msi',
+      model: 'gaming x trio',
+      series: '3080ti',
+      url:
+        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194695&language=en',
+    },
+    {
+      brand: 'evga',
+      model: 'ftw3 ultra',
+      series: '3080ti',
+      url:
+        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194699&language=en',
+    },
+    {
+      brand: 'evga',
+      model: 'xc3 ultra',
+      series: '3080ti',
+      url:
+        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194713&language=en',
+    },
+    {
+      brand: 'msi',
+      model: 'ventus 3x oc',
+      series: '3080ti',
+      url:
+        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194714&language=en',
+    },
+    {
+      brand: 'zotac',
+      model: 'trinity',
+      series: '3080ti',
+      url:
+        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194795&language=en',
+    },
+    {
+      brand: 'zotac',
+      model: 'trinity oc',
+      series: '3080ti',
+      url:
+        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=194797&language=en',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '3080ti',
+      url:
+        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195034&language=en',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'vision oc',
+      series: '3080ti',
+      url:
+        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195035&language=en',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'aorus',
+      series: '3080ti',
+      url:
+        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195061&language=en',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'aorus master',
+      series: '3080ti',
+      url:
+        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195062&language=en',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'eagle oc',
+      series: '3080ti',
+      url:
+        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195064&language=en',
+    },
+    {
+      brand: 'asus',
+      model: 'tuf oc',
+      series: '3080ti',
+      url:
+        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195077&language=en',
+    },
+    {
+      brand: 'asus',
+      model: 'strix oc',
+      series: '3080ti',
+      url:
+        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=195079&language=en',
+    },
+    {
       brand: 'asus',
       model: 'strix oc',
       series: '3090',
       url:
         'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181841&language=en',
-    },
-    {
-      brand: 'evga',
-      model: 'ftw3 ultra',
-      series: '3090',
-      url:
-        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181854&language=en',
-    },
-    {
-      brand: 'asus',
-      model: 'tuf oc',
-      series: '3090',
-      url:
-        'https://www.canadacomputers.com/product_info.php?cPath=43_557_559&item_id=181413&language=en',
     },
     {
       brand: 'zotac',

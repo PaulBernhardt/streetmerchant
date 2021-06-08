@@ -8,3 +8,6 @@ services:
     container_name: streetmerchant
     env_file:
       - dotenv
+    ports: 
+      - 8008:8008
+    restart: unless-stopped
