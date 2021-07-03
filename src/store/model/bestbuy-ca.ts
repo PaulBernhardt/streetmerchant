@@ -8,7 +8,11 @@ export const BestBuyCa: Store = {
       euroFormat: false,
     },
     outOfStock: {
-      container: '.addToCartButton:disabled',
+      container: '[class*=disabled]',
+      text: ['add to cart'],
+    },
+    inStock: {
+      container: '.addToCartButton',
       text: ['add to cart'],
     },
   },
@@ -115,8 +119,9 @@ export const BestBuyCa: Store = {
       brand: 'nvidia',
       model: 'founders edition',
       series: '3080',
-      url: 'https://www.bestbuy.ca/en-ca/product/nvidia-geforce-rtx-3080-10gb-gddr6x-video-card/15463567?intl=nosplash'
-    }, 
+      url:
+        'https://www.bestbuy.ca/en-ca/product/nvidia-geforce-rtx-3080-10gb-gddr6x-video-card/15463567?intl=nosplash',
+    },
     {
       brand: 'zotac',
       model: 'trinity',
@@ -156,8 +161,9 @@ export const BestBuyCa: Store = {
       brand: 'nvidia',
       model: 'founders edition',
       series: '3090',
-      url: 'https://www.bestbuy.ca/en-ca/product/nvidia-geforce-rtx-3090-24gb-gddr6x-video-card/15463568?intl=nosplash'
-    },       
+      url:
+        'https://www.bestbuy.ca/en-ca/product/nvidia-geforce-rtx-3090-24gb-gddr6x-video-card/15463568?intl=nosplash',
+    },
     {
       brand: 'msi',
       model: 'ventus 3x oc',
